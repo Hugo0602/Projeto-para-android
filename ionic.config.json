@@ -1,0 +1,7 @@
+{
+  "name": "Aplicativo do Hugão",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
